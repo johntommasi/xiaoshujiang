@@ -1,0 +1,42 @@
+---
+title: '(晒太阳的猫)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？'
+category: '/小书匠/收集/知乎问答/晒太阳的猫/b231b4acad5a1f1eec2e60a339190265'
+slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1991107708636652572'
+createDate: '2026-1-4 11:24:30'
+grammar_mathjax: false
+grammar_footnote: false
+grammar_ins: false
+emoji: '晒'
+tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+---
+
+
+[toc]
+
+
+# 问题
+
+提问者：**<a href="https://www.zhihu.com/people/tomsheep">tomsheep</a>**
+提问时间: 2025-11-2 16:58:20
+总回答数: 233
+总访问量: 1737164
+
+研究领域对此有何解释？
+
+# 回答
+
+回答者： **<a href="https://www.zhihu.com/people/tang-yang-99-4">晒太阳的猫</a>**
+回答时间: 2026-1-4 11:24:30
+点赞总数: 1
+评论总数: 0
+收藏总数: 0
+喜欢总数：0
+
+这个可以从很多方向解释，我从压缩即智能的观点来看，压缩的本质，是将文本这种高维的数据，压缩到了一个代表信息本质的低维流形上，而预测本身，是模型学会了在这个低维流形上进行运动。因此：智能=正确的低维+正确的运动轨迹。
+
+  
+
+原文地址：[(晒太阳的猫)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？](https://www.zhihu.com/question/1968361285579150015/answer/1991107708636652572) 
+
+

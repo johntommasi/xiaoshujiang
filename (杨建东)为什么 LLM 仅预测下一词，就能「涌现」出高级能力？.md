@@ -1,0 +1,68 @@
+---
+title: '(杨建东)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？'
+category: '/小书匠/收集/知乎问答/杨建东/baab7a2485206b13e600049697855012'
+slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1968666709071237150'
+createDate: '2025-11-3 13:11:59'
+grammar_mathjax: false
+grammar_footnote: false
+grammar_ins: false
+emoji: '杨'
+tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+---
+
+
+[toc]
+
+
+# 问题
+
+提问者：**<a href="https://www.zhihu.com/people/tomsheep">tomsheep</a>**
+提问时间: 2025-11-2 16:58:20
+总回答数: 233
+总访问量: 1737158
+
+研究领域对此有何解释？
+
+# 回答
+
+回答者： **<a href="https://www.zhihu.com/people/benrenyangjiandong">杨建东</a>**
+回答时间: 2025-11-3 13:11:59
+点赞总数: 19
+评论总数: 0
+收藏总数: 3
+喜欢总数：0
+
+因为人类智力的本质就是对外部复杂世界环境的下一步演化趋势的预测
+
+预测下一个词就能预测世界
+
+意味着维特根斯坦语言原子论不过时
+
+原子化的语言对应原子化的世界结构
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+好吧，我瞎说的
+
+  
+
+原文地址：[(杨建东)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？](https://www.zhihu.com/question/1968361285579150015/answer/1968666709071237150) 
+
+

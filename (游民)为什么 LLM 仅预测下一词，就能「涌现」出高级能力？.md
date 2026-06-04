@@ -1,0 +1,44 @@
+---
+title: '(游民)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？'
+category: '/小书匠/收集/知乎问答/游民/0392ffb3559ca47bf749f1df688753d7'
+slug: 'https://www.zhihu.com/question/1968361285579150015/answer/2022632280393261749'
+createDate: '2026-4-1 11:11:54'
+grammar_mathjax: false
+grammar_footnote: false
+grammar_ins: false
+emoji: '游'
+tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+---
+
+
+[toc]
+
+
+# 问题
+
+提问者：**<a href="https://www.zhihu.com/people/tomsheep">tomsheep</a>**
+提问时间: 2025-11-2 16:58:20
+总回答数: 233
+总访问量: 1737159
+
+研究领域对此有何解释？
+
+# 回答
+
+回答者： **<a href="https://www.zhihu.com/people/hai-dian-you-min">游民</a>**
+回答时间: 2026-4-1 11:11:54
+点赞总数: 4
+评论总数: 0
+收藏总数: 0
+喜欢总数：0
+
+深度学习，也就是神经网络，大数定律，数据到了一定程度后，噪音数据影响力减弱，模型越来越能逼近背后隐藏的规律。
+
+顺便提一句，深度学习在90年代和2010年前的低潮期，很大原因是没有趁手的硬件，没法做大规模训练，也就没法发现涌现，哪像现在。
+
+  
+
+原文地址：[(游民)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？](https://www.zhihu.com/question/1968361285579150015/answer/2022632280393261749) 
+
+
