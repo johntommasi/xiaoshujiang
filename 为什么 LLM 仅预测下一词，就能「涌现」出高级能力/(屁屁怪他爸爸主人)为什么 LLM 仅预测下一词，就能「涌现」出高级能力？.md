@@ -92,7 +92,7 @@ InstructGPT证明了RLHF这条路的成功，而ChatGPT，就是让InstructGPT�
 
 比如说，10月底 Anthropic 的研究人员发表的《当模型操作流形：计数任务的几何学》（When Models Manipulate Manifolds: The Geometry of a Counting Task），发现模型在生成一些有固定宽度的格式要求的文本的时候，内部有一个“计数机制”。
 
-![](images/116v2-6310084aef8676847a71559e973d0bea.jpg)
+![[images/12v2-屁屁怪他爸爸主人.webp]]
 
 这套机制需要追踪：当前行已经写了多少字符（当前位置），这行的总宽度限制是多少。模型会计算出“剩余空间”，然后结合它打算生成的下一个词的长度，来判断这个词是该放在当前行，还是必须另起一行。
 

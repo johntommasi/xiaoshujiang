@@ -77,7 +77,6 @@ Jason Wei 等人在 Chain-of-Thought Prompting Elicits Reasoning in Large Langua
 
 推荐看deeplearning
 
-![](images/175v2-6925eb95f03f422620ee650522f76b8a.jpg)
 
   
 
