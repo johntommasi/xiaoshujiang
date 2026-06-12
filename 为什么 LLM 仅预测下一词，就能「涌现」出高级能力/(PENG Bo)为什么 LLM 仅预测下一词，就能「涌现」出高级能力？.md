@@ -100,7 +100,7 @@ ___
 例如，人类显然很不擅长NTP（我会说，人类擅长给自己做NTP）。例如，概率公式也可以有问题。
 
 
-![[images/08PENG Bo.webp]]
+![](images/08PENG%20Bo.webp)
   
 
 原文地址：[(PENG Bo)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？](https://www.zhihu.com/question/1968361285579150015/answer/2023893715052237934) 

@@ -41,7 +41,7 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
 你知不知道LLM推理优化的一个手段叫`多头美杜莎`，这就是LLM脑子里已经有了下好几个字的证据。为防止别人不懂，我把图贴下面了。多头美杜莎就是在LLM的最后进行了修改，本来那里只有一个lmhead,这个lm head输出的是下一个token。多头美杜莎的修改就是最后有多个lm head，叫medusa head 1, 2, 3，每个分别预测下一个，下下个，下下下个token。
 
-![[images/09Sinaean Dean.webp]]
+![](images/09Sinaean%20Dean.webp)
 
 这个可以类比成什么？
 

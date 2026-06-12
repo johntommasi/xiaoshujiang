@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "fccdef842e5e357f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34c68923bf27410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29cfd4443c1535a4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Ultra Formam-12.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Ultra Formam-12"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36cecf3d9c23ece4",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d2b02bd1ed9fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f5d2681d7688fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9c81a37749290056",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8ade87553b8cf7c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32e93c97bf399232",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ffb427116df8f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a732e9049f084d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "images/Ultra Formam-12.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Ultra Formam-12 的反向链接列表"
+            }
+          },
+          {
+            "id": "493fa85b651ca15d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "images/Ultra Formam-12.webp",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ultra Formam-12 的出链列表"
+            }
+          },
+          {
+            "id": "94745abc31f8002f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a134db6b90761956",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3c7c6b348644350d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "images/Ultra Formam-12.webp",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Ultra Formam-12 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "29cfd4443c1535a4",
+  "lastOpenFiles": [
+    "images/Ultra Formam-8.webp",
+    "images/Ultra Formam-3.webp",
+    "images/Ultra Formam-6.webp",
+    "images/Ultra Formam-19.webp",
+    "images/Ultra Formam-18.webp",
+    "(大模型学习营)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "images/Ultra Formam-9.webp",
+    "images/Ultra Formam-5.webp",
+    "images/Ultra Formam-2.webp",
+    "images/Ultra Formam-1.webp",
+    "images/Ultra Formam-0.webp",
+    "(Ultra Formam)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "images/24Ultra Formam01.webp",
+    "(捷哥AI超级个体)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(数据与AI爱好者)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(杰拉德笔下的男人)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(沈文)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(胡子)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(平凡)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(屁屁怪他爸爸主人)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(Sinaean Dean)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(PENG Bo)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(LindgeWAI)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(安易)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(游标Rationaut)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(小夏)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(归来仍是少年)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md",
+    "(多才多艺铅笔i)为什么 LLM 仅预测下一词，就能「涌现」出高级能力？.md"
+  ]
+}

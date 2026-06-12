@@ -80,7 +80,7 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 如果语言是某种信号系统，那么它必须具有冗余。它必须可以被压缩，它必须具有统计规律。
 
   
-![[images/24Ultra Formam01.webp]]
+![](images/24Ultra%20Formam01.webp)
 
 
   
@@ -106,7 +106,7 @@ ___
 ###  **2.1 语言是如何生成的？** 
 
   
-![[images/Ultra Formam-0.webp]]
+![](images/Ultra Formam-0.webp)
 
 
   
@@ -131,7 +131,7 @@ ___
 
 这里我们提供一种 **形式化语言生成机制** 的理解：
 
-  ![[images/Ultra Formam-1.webp]]
+  ![](images/Ultra Formam-1.webp)
 
 
 
@@ -139,42 +139,42 @@ ___
 
 语言生成并不是直接输出 Z，而是通过某种映射，类似于：
 
-![[images/Ultra Formam-2.webp]]
+![](images/Ultra Formam-2.webp)
 
 其中：X是词汇空间；T 是句子长度；而输出可以被视作一个向量
 
   
 
-![[images/Ultra Formam-3.webp]]
+![](images/Ultra Formam-3.webp)
 
   
 
 因此它必然是，有损压缩映射，也就是说：
 
-![[images/Ultra Formam-4.webp]]
+![](images/Ultra Formam-4.webp)
 
 换句话说，人的语言无法超出其思维所及的边界
 
 更精确的说，这个映射不是任意的，而是在带有语言生成任务目标的情况下进行的，我们将其计作G; 这里的目标约束，可以被形象的了理解为例如“说服”，“解释”；“请求”等 语言生成的动机：
 
-![[images/Ultra Formam-5.webp]]
+![](images/Ultra Formam-5.webp)
 
 这意味着语言生成不是“完整表达所想“，而是在目标约束下提取当前任务的相关子结构；如果我们引入概率形式，可以写成：
 
   
 
-![[images/Ultra Formam-6.webp]]
+![](images/Ultra Formam-6.webp)
 
 这一步解释语言生成本质上是从这个分布中采样，这意味同一种心境下（Z） 可以存在多种表达，而这种表达具有变异性；语言不是确定函数，而是概率生成
 
 简单总结一下，语言的生成过程可以被简单符号化为：
 
-![[images/Ultra Formam-7.webp]]
+![](images/Ultra Formam-7.webp)
 
 并且具有结构压缩的特性：
 
 
-![[images/Ultra Formam-8.webp]]
+![](images/Ultra Formam-8.webp)
 ___
 
 ###  **2.2 可压缩的语言** 
@@ -196,7 +196,7 @@ ___
 从符号化角度看，如果语言生成满足：
 
   
-![[images/Ultra Formam-9.webp]]
+![](images/Ultra Formam-9.webp)
 
 
 且 f 是在带宽与时间约束下的选择性映射，那么系统会倾向于：使用高频模式，复用稳定结构，省略共享背景... 这些机制都会在表层形成统计规律。
@@ -241,7 +241,7 @@ ___
 
 如果我们写成概率形式，语言表层并不是随机序列，而是：
 
-![[images/Ultra Formam-10.webp]]
+![](images/Ultra Formam-10.webp)
 
 高度依赖历史上下文的概率生成； 换句话说，语言压缩之后形成了一种“低熵结构”。它既不是完全确定，也不是完全随机，而是在可预测与创造性之间取得平衡。
 
@@ -277,7 +277,7 @@ ___
 
   
 
-![[images/Ultra Formam-11.webp]]
+![](images/Ultra Formam-11.webp)
 
   
 
@@ -300,17 +300,17 @@ ___
   
 
 
-![[images/Ultra Formam-12.webp]]
+![](images/Ultra Formam-12.webp)
 也就是在给定前文的情况下，预测下一个词的概率，但“预测”并不是一句口号，它在数学上对应一个损失函数。在训练时，模型会对每个位置输出一个概率分布：
 
   
-![[images/Ultra Formam-13.webp]]
+![](images/Ultra Formam-13.webp)
 
 
 其中 h 部分是 Transformer 根据前文计算得到的表示，然后，用真实文本中的下一个词作为“正确答案”，计算 **交叉熵损失（cross-entropy loss）** 
 
   
-![[images/Ultra Formam-14.webp]]
+![](images/Ultra Formam-14.webp)
 
 
 这意味着模型在最小化“对真实语言的惊讶程度”；如果模型给真实词一个很低的概率，损失就大；反之，损失就小。整个训练的过程，就是不断通过梯度下降（gradient descent）调整参数，使得：
@@ -324,7 +324,7 @@ ___
   
 
 
-![[images/Ultra Formam-15.webp]]
+![](images/Ultra Formam-15.webp)
   
 
 也就是说，模型在做的是：
@@ -360,7 +360,7 @@ Transformer 并不是只做一次 attention，而是进行许多层叠的叠加�
 这便是为什么它成为大语言模型的基础架构。
 
   
-![[images/Ultra Formam-16.webp]]
+![](images/Ultra Formam-16.webp)
 
 
 ###  **3.4 模型的生成过程** 
@@ -431,14 +431,14 @@ ___
 
 
 
-  ![[images/Ultra Formam-17.webp]]
+  ![](images/Ultra Formam-17.webp)
 
 其中 Z 是高维中介空间，X 是线性表达。
 
 若我们观察大语言模型的生成机制，会发现一种耐人寻味的镜像结构。模型并非直接在词序列上简单拼接，而是首先将输入语言嵌入一个高维表示空间，在该空间中通过多层注意力机制不断重写表示，整合上下文信息，最终再通过条件概率映射生成下一个符号。其结构可以写作：
 
 
-![[images/Ultra Formam-18.webp]]
+![](images/Ultra Formam-18.webp)
 其中 H 是模型内部的高维表示空间。
 
 两者的差异显而易见：一个以心智状态为起点，一个以语言序列为起点。但在形式结构上，它们却呈现出一种对称性——语言的生成都依赖一个高维中介空间，而非直接在序列层面操作；生成都不是简单复制，而是经过压缩或重写后的投射。
@@ -505,7 +505,7 @@ Ryan
 
   
 
-![[images/Ultra Formam-19.webp]]
+![](images/Ultra Formam-19.webp)
 
   
 
