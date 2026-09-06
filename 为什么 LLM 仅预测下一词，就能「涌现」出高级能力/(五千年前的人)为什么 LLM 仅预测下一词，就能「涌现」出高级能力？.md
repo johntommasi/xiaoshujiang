@@ -3,11 +3,13 @@ title: '(五千年前的人)为什么 LLM 仅预测下一词，就能「涌现�
 category: '/小书匠/收集/知乎问答/五千年前的人/328eac4f125efb7d15d22cbec2a7319b'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/2015889822124892444'
 createDate: '2026-3-13 20:39:47'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '五'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -41,7 +43,10 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
   
 
-看到「天上有朵白白的\_\_\_\_」，你秒填「云」。看到「1, 2, 3, \_\_\_\_」，你秒回「4」。
+看到「天上有朵白白的\_\_\_\_」，你秒填「云」。看到「1
+- 2
+- 3
+- \_\_\_\_」，你秒回「4」。
 
   
 

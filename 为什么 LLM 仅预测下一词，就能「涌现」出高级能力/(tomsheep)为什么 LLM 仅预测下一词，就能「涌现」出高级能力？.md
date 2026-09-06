@@ -3,11 +3,13 @@ title: '(tomsheep)为什么 LLM 仅预测下一词，就能「涌现」出高级
 category: '/小书匠/收集/知乎问答/tomsheep/ef9d1602fc7c41e122b227cc42dfe3e7'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1968362331344969886'
 createDate: '2025-11-2 17:2:30'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 't'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -162,7 +164,8 @@ LLM 的本质，仍然是一个被训练来 **最小化下一个词预测误差*
 拓展阅读：
 
 -   [\[2403.06963\] The pitfalls of next-token prediction](https://arxiv.org/abs/2403.06963)
--   [The Surprising Power of Next Word Prediction: Large Language Models Explained, Part 1 | Center for Security and Emerging Technology](https://cset.georgetown.edu/article/the-surprising-power-of-next-word-prediction-large-language-models-explained-part-1/)
+-   [The Surprising Power of Next Word Prediction: Large Language Models Explained
+- Part 1 | Center for Security and Emerging Technology](https://cset.georgetown.edu/article/the-surprising-power-of-next-word-prediction-large-language-models-explained-part-1/)
 
 ## 总结
 

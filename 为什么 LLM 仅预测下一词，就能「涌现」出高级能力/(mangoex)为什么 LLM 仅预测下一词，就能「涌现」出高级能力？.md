@@ -3,11 +3,13 @@ title: '(mangoex)为什么 LLM 仅预测下一词，就能「涌现」出高级�
 category: '/小书匠/收集/知乎问答/mangoex/6ff4808c37491aa1996984f16b62b2a8'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/2041890241498304584'
 createDate: '2026-5-24 14:36:10'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'm'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

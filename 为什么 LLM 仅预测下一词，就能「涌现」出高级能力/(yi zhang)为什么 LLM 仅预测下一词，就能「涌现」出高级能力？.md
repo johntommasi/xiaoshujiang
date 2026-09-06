@@ -3,11 +3,13 @@ title: '(yi zhang)为什么 LLM 仅预测下一词，就能「涌现」出高级
 category: '/小书匠/收集/知乎问答/yi zhang/74484375827ab17b41d1ab18b51b49c7'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1990121433775485817'
 createDate: '2026-1-1 18:5:24'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'y'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

@@ -3,11 +3,14 @@ title: '(知乎用户7BAFBx)如何最快时间厘清一个县城的利益关系�
 category: '/小书匠/收集/知乎问答/知乎用户7BAFBx/dc06077e9628ca7ad964eaaa8875c640'
 slug: 'https://www.zhihu.com/question/39980419/answer/3627781987'
 createDate: '2024-9-17 16:6:57'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '知'
-tags: '公务员,公务员考试,乡镇,社会阶层,市县领导'
+
+
+tags:
+- 公务员
+- 公务员考试
+- 乡镇
+- 社会阶层
+- 市县领导
 
 ---
 

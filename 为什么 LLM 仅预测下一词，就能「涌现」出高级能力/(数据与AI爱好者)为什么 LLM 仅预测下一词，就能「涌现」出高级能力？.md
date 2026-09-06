@@ -3,11 +3,13 @@ title: '(数据与AI爱好者)为什么 LLM 仅预测下一词，就能「涌现
 category: '/小书匠/收集/知乎问答/数据与AI爱好者/646e30948d93aa29e766eb4a6b11a1ba'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/2001301878336668243'
 createDate: '2026-2-1 14:32:30'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '数'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -47,7 +49,8 @@ LLM采用Transfomer架构，在预测下一个词时需要参考很长的上下�
 
 “在完全水平、无摩擦时，小球将永远以恒定速度运动”
 
-人类从大量的观察、实验数据中“压缩”出了惯性定律，F=ma，万有引力定律,...
+人类从大量的观察、实验数据中“压缩”出了惯性定律，F=ma，万有引力定律
+- ...
 
 Yann LeCun等科学家认为当前大模型的范式存在缺陷:
 

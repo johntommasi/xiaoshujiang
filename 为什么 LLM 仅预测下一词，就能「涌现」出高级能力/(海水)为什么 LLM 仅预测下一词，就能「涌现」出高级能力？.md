@@ -3,11 +3,13 @@ title: '(海水)为什么 LLM 仅预测下一词，就能「涌现」出高级�
 category: '/小书匠/收集/知乎问答/海水/704af164883f98a16df86e7a6f697d08'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1991240106183526065'
 createDate: '2026-1-4 20:10:36'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '海'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

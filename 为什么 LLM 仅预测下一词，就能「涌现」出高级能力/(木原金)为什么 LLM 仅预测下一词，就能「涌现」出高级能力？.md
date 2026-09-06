@@ -3,11 +3,13 @@ title: '(木原金)为什么 LLM 仅预测下一词，就能「涌现」出高�
 category: '/小书匠/收集/知乎问答/木原金/b6be183b587298495899e1d3a26068c1'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1968732201282704338'
 createDate: '2025-11-3 17:32:14'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '木'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

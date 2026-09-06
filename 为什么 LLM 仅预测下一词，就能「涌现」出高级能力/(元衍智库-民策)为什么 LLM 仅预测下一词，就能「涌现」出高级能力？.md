@@ -3,11 +3,13 @@ title: '(元衍智库-民策)为什么 LLM 仅预测下一词，就能「涌现�
 category: '/小书匠/收集/知乎问答/元衍智库-民策/c0a2829645185b2d246a156cfd3b0464'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1973077688626480737'
 createDate: '2025-11-15 17:19:38'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '元'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

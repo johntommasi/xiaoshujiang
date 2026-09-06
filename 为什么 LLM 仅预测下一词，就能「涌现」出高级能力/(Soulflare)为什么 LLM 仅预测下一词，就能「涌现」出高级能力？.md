@@ -3,11 +3,13 @@ title: '(Soulflare)为什么 LLM 仅预测下一词，就能「涌现」出高�
 category: '/小书匠/收集/知乎问答/Soulflare/fa6ace1631e7f2b98861c8eae75c7546'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1995599869495239941'
 createDate: '2026-1-16 20:54:45'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'S'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -112,7 +114,8 @@ Othello-GPT（奥赛罗棋GPT）这个研究大家一定要看。
 这就像心算和笔算的某种区别。思维链把一个深度的计算过程，展开到了时间轴上。这也是 预测下一个词 这种机制带来的意外之喜。
 
   
-Wei, Jason 等人那篇 Chain-of-Thought Prompting Elicits Reasoning in Large Language Models 是必读的。虽然现在看来是常识，但当时这简直是捅破了窗户纸。另外看看 Google 那个 Minerva 模型，专门搞数学推理的，你会发现只要数据清洗得够干净，模型做微积分跟玩儿似的。
+Wei
+- Jason 等人那篇 Chain-of-Thought Prompting Elicits Reasoning in Large Language Models 是必读的。虽然现在看来是常识，但当时这简直是捅破了窗户纸。另外看看 Google 那个 Minerva 模型，专门搞数学推理的，你会发现只要数据清洗得够干净，模型做微积分跟玩儿似的。
 
 当然，咱们也得泼点冷水，别把LLM神话了。
 

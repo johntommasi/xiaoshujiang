@@ -3,11 +3,12 @@ title: '(吴David)大佬们，我这个练网文的方法可以吗？'
 category: '/小书匠/收集/知乎问答/吴David/080dd4872a3884ea10de19c5893de885'
 slug: 'https://www.zhihu.com/question/1995660946199302761/answer/1997328238461084201'
 createDate: '2026-1-21 15:22:40'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '吴'
-tags: '网络文学,网文写作,网文创作'
+
+
+tags:
+- 网络文学
+- 网文写作
+- 网文创作
 
 ---
 

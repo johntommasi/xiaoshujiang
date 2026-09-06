@@ -3,11 +3,14 @@ title: '(mgyg吴晓明)如何最快时间厘清一个县城的利益关系？'
 category: '/小书匠/收集/知乎问答/mgyg吴晓明/ca66c025d0aadf9e89825b36b7a92297'
 slug: 'https://www.zhihu.com/question/39980419/answer/91374193'
 createDate: '2016-3-19 1:3:38'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'm'
-tags: '公务员,公务员考试,乡镇,社会阶层,市县领导'
+
+
+tags:
+- 公务员
+- 公务员考试
+- 乡镇
+- 社会阶层
+- 市县领导
 
 ---
 

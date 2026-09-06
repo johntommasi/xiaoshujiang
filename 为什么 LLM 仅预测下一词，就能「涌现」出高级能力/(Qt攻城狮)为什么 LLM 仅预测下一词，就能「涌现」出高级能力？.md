@@ -3,11 +3,13 @@ title: '(Qt攻城狮)为什么 LLM 仅预测下一词，就能「涌现」出高
 category: '/小书匠/收集/知乎问答/Qt攻城狮/091d6f8ca2ad3f1a33df1ef6e88a0f63'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1968787747876611394'
 createDate: '2025-11-3 21:12:57'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'Q'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

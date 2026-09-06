@@ -3,11 +3,13 @@ title: '(Oneiros)为什么 LLM 仅预测下一词，就能「涌现」出高级�
 category: '/小书匠/收集/知乎问答/Oneiros/3c4b0b3e3c90cb6b54773a684a77e403'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1995943843594511734'
 createDate: '2026-1-17 19:41:35'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'O'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

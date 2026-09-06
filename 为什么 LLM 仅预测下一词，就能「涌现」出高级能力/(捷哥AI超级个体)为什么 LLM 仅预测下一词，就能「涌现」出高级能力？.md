@@ -3,11 +3,13 @@ title: '(捷哥AI超级个体)为什么 LLM 仅预测下一词，就能「涌现
 category: '/小书匠/收集/知乎问答/捷哥AI超级个体/4086c3135da809fd0c6d0ca45ff897a4'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/2000167904461730717'
 createDate: '2026-1-29 11:26:29'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '捷'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

@@ -3,11 +3,13 @@ title: '(费亿)为什么 LLM 仅预测下一词，就能「涌现」出高级�
 category: '/小书匠/收集/知乎问答/费亿/f83b6637b7592682886749c11d504d0e'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1981142671335650129'
 createDate: '2025-12-7 23:27:0'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '费'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

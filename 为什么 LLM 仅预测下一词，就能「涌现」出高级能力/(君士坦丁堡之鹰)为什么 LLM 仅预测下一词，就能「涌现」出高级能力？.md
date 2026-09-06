@@ -6,8 +6,12 @@ createDate: '2025-12-29 9:3:18'
 grammar_mathjax: true
 grammar_footnote: false
 grammar_ins: false
-emoji: '君'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -37,7 +41,8 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
 ### 1. 引言
 
-在人工智能领域，大型语言模型（Large Language Models, LLMs）展现出的逻辑推理、代码生成及多步规划等高级能力，常被经验主义者笼统地归结为“大数据训练的结果”。然而，这种现象在本体论层面存在一个显著的矛盾：一个单纯优化“下一词预测”（Next Token Prediction）概率分布的函数，为何能衍生出甚至超越训练数据显性特征的认知能力？
+在人工智能领域，大型语言模型（Large Language Models
+- LLMs）展现出的逻辑推理、代码生成及多步规划等高级能力，常被经验主义者笼统地归结为“大数据训练的结果”。然而，这种现象在本体论层面存在一个显著的矛盾：一个单纯优化“下一词预测”（Next Token Prediction）概率分布的函数，为何能衍生出甚至超越训练数据显性特征的认知能力？
 
 本报告旨在剥离拟人化的叙事与黑箱式的经验总结，严格基于信息论（Information Theory）、统计力学（Statistical Mechanics）及计算复杂性理论（Computational Complexity Theory）的基础公理，构建一个严密的演绎模型。我们论证的核心命题是： **在极度压缩数据熵的过程中，对生成机制的因果模拟是实现损失函数最小化的唯一全局最优解。** 
 
@@ -45,7 +50,10 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
 ### 2.1 问题的数学形式化
 
-从数学角度审视，LLM 的训练目标是最小化真实数据分布  `!$P_{data}$`  与模型分布  `!$P_{\theta}$`  之间的 Kullback-Leibler 散度（KL Divergence）。对于序列  `!$x = (x_1, x_2, ..., x_T)$` ，其自回归目标函数  `!$\mathcal{L}(\theta)$`  定义为：
+从数学角度审视，LLM 的训练目标是最小化真实数据分布  `!$P_{data}$`  与模型分布  `!$P_{\theta}$`  之间的 Kullback-Leibler 散度（KL Divergence）。对于序列  `!$x = (x_1
+- x_2
+- ...
+- x_T)$` ，其自回归目标函数  `!$\mathcal{L}(\theta)$`  定义为：
 
  `!$\mathcal{L}(\theta) = - \mathbb{E}_{x \sim P_{data}} \left[ \sum_{t=1}^{T} \log P_{\theta}(x_t | x_{<t}) \right]$` 
 
@@ -71,7 +79,8 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
 若模型学习算法，它只需掌握进位规则（Carry Rule）和按位加法逻辑。
 
-根据奥卡姆剃刀原则（Occam’s Razor），在参数有限且训练数据足够多样化的情况下，学习通用的算法  `!$f(a,b) = a+b$`  比记忆无限的查找表具有极低的参数复杂度（Parameter Complexity）。
+根据奥卡姆剃刀原则（Occam’s Razor），在参数有限且训练数据足够多样化的情况下，学习通用的算法  `!$f(a
+- b) = a+b$`  比记忆无限的查找表具有极低的参数复杂度（Parameter Complexity）。
 
  `!$\min_{\theta} \mathcal{L}(\theta) \implies \theta \rightarrow \text{Algorithm encoding}$` 
 

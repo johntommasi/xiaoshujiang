@@ -3,11 +3,13 @@ title: '(佳人李大花)为什么 LLM 仅预测下一词，就能「涌现」�
 category: '/小书匠/收集/知乎问答/佳人李大花/f214ae192e1cb473fe9d3b88dac509e9'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1969195247897654973'
 createDate: '2025-11-5 0:12:12'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '佳'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -39,8 +41,11 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
 Are Emergent Abilities of Large Language Models a Mirage?
 
-Rylan Schaeffer, Brando Miranda, and Sanmi Koyejo
-Computer Science, Stanford University
+Rylan Schaeffer
+- Brando Miranda
+- and Sanmi Koyejo
+Computer Science
+- Stanford University
 
 文章首先给这个所谓的“涌现能力”定了个义：
 

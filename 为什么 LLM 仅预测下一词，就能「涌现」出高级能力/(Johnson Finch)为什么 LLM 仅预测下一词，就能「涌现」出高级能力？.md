@@ -3,11 +3,13 @@ title: '(Johnson Finch)为什么 LLM 仅预测下一词，就能「涌现」出�
 category: '/小书匠/收集/知乎问答/Johnson Finch/493132f109d00473ad167405cfb8b519'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1985312356566328941'
 createDate: '2025-12-19 11:35:51'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'J'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

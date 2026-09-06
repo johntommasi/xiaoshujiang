@@ -6,8 +6,12 @@ createDate: '2025-11-3 10:8:37'
 grammar_mathjax: false
 grammar_footnote: true
 grammar_ins: false
-emoji: '赵'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

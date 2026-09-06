@@ -3,11 +3,13 @@ title: '(想去山东看海)为什么 LLM 仅预测下一词，就能「涌现�
 category: '/小书匠/收集/知乎问答/想去山东看海/e58ce5b3a9a4a8afc76c423ee4b04ef3'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1989818728804787568'
 createDate: '2025-12-31 22:2:33'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '想'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

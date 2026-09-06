@@ -3,11 +3,13 @@ title: '(哥廷根数学学派)为什么 LLM 仅预测下一词，就能「涌�
 category: '/小书匠/收集/知乎问答/哥廷根数学学派/c7cac96dc58ea9cc6a5b6d924f08d9e5'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1968599576714929825'
 createDate: '2025-11-3 8:45:13'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '哥'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

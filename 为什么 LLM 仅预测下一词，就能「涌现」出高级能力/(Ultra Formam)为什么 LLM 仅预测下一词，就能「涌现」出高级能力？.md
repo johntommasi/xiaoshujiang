@@ -3,11 +3,13 @@ title: '(Ultra Formam)为什么 LLM 仅预测下一词，就能「涌现」出�
 category: '/小书匠/收集/知乎问答/Ultra Formam/e5f1325eedcfa89b93bb5859e7addc26'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/2010543962952325069'
 createDate: '2026-2-27 2:37:14'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'U'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -343,7 +345,8 @@ ___
 
  **3.3 Transformer 架构** 
 
-> "After all, attention is all you need."
+> "After all
+- attention is all you need."
 
 在前一节我们已经看到，模型的训练目标非常简单：在给定前文的情况下预测下一个词。问题在于：
 

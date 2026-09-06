@@ -3,11 +3,13 @@ title: '(北冰洋)为什么 LLM 仅预测下一词，就能「涌现」出高�
 category: '/小书匠/收集/知乎问答/北冰洋/3bdd708bc159b47f52874ede6333ae34'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1974534851806917433'
 createDate: '2025-11-19 17:49:53'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '北'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

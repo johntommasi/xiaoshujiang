@@ -6,8 +6,12 @@ createDate: '2026-5-7 12:20:59'
 grammar_mathjax: true
 grammar_footnote: false
 grammar_ins: false
-emoji: 'x'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -47,7 +51,8 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
 当模型预测错误时，目标词（真实值）作为微观层注入的 **非齐次源项**   `!$\vec{J}_{ext}$` ，会在流形局部产生巨大的 **认知应力-能量张量**   `!$\mathbf{T}_{\mu\nu}^{data}$` ：
 
- `!$ \mathcal{L}_{data} \cong \int_{\mathcal{M}} \mathbf{T}_{\mu\nu}^{data} \cdot \delta(\mathbf{r} - \mathbf{r}_{next}) \, dV $` 
+ `!$ \mathcal{L}_{data} \cong \int_{\mathcal{M}} \mathbf{T}_{\mu\nu}^{data} \cdot \delta(\mathbf{r} - \mathbf{r}_{next}) \
+- dV $` 
 
   
 
@@ -81,7 +86,8 @@ tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
 
  `!$ \lim_{\rho \to \rho_c^+} \beta_0(\mathcal{M}) \to 1 $` 
 
- **涌现的第三步** ：无数个孤立的语义盆地瞬间连结成一个贯穿全域的 **巨连通簇 (Giant Component)** 。同时，高维的拓扑孔洞（ `!$\beta_1, \beta_2$` ）显现，形成了连接遥远概念的 **“拓扑虫洞”（Attention Sinks）** 。 在这一瞬间，波函数  `!$\Psi$`  获得了跨越极大语义距离进行 **非局域隧穿（调和流**   `!$\Psi_{harm}$`  **）** 的能力。这就从底层的几何连通性上，解释了模型为何突然获得了在未见过的语境中举一反三（Zero-shot Generalization）的通用能力。
+ **涌现的第三步** ：无数个孤立的语义盆地瞬间连结成一个贯穿全域的 **巨连通簇 (Giant Component)** 。同时，高维的拓扑孔洞（ `!$\beta_1
+- \beta_2$` ）显现，形成了连接遥远概念的 **“拓扑虫洞”（Attention Sinks）** 。 在这一瞬间，波函数  `!$\Psi$`  获得了跨越极大语义距离进行 **非局域隧穿（调和流**   `!$\Psi_{harm}$`  **）** 的能力。这就从底层的几何连通性上，解释了模型为何突然获得了在未见过的语境中举一反三（Zero-shot Generalization）的通用能力。
 
   
 

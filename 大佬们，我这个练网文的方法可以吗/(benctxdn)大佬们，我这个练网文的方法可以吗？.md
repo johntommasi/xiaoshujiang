@@ -3,11 +3,12 @@ title: '(benctxdn)大佬们，我这个练网文的方法可以吗？'
 category: '/小书匠/收集/知乎问答/benctxdn/39b77cffbc645a9d5b712e73bcfac670'
 slug: 'https://www.zhihu.com/question/1995660946199302761/answer/2000028021445394752'
 createDate: '2026-1-29 2:10:39'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'b'
-tags: '网络文学,网文写作,网文创作'
+
+
+tags:
+- 网络文学
+- 网文写作
+- 网文创作
 
 ---
 

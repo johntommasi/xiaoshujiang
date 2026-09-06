@@ -3,11 +3,13 @@ title: '(名字短点怎么了)为什么 LLM 仅预测下一词，就能「涌�
 category: '/小书匠/收集/知乎问答/名字短点怎么了/b96592391a88c7b58c544776d443408a'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1994382517214660426'
 createDate: '2026-1-13 12:17:25'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '名'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

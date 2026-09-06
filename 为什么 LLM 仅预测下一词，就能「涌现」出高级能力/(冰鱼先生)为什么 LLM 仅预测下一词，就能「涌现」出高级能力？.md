@@ -3,11 +3,13 @@ title: '(冰鱼先生)为什么 LLM 仅预测下一词，就能「涌现」出�
 category: '/小书匠/收集/知乎问答/冰鱼先生/9537d5520b80eef1771e7bfef8982381'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1989140185221464809'
 createDate: '2025-12-30 1:6:16'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '冰'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

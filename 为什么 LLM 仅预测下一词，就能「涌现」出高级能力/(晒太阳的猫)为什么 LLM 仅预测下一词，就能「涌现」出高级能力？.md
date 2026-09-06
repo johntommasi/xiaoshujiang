@@ -3,11 +3,13 @@ title: '(晒太阳的猫)为什么 LLM 仅预测下一词，就能「涌现」�
 category: '/小书匠/收集/知乎问答/晒太阳的猫/b231b4acad5a1f1eec2e60a339190265'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/1991107708636652572'
 createDate: '2026-1-4 11:24:30'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: '晒'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 

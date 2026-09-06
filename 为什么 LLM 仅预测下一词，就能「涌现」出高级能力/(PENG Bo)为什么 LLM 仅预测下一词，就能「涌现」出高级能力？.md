@@ -3,11 +3,13 @@ title: '(PENG Bo)为什么 LLM 仅预测下一词，就能「涌现」出高级�
 category: '/小书匠/收集/知乎问答/PENG Bo/64d972cc5bae62489442e35b32dc0fce'
 slug: 'https://www.zhihu.com/question/1968361285579150015/answer/2023893715052237934'
 createDate: '2026-4-4 22:44:23'
-grammar_mathjax: false
-grammar_footnote: false
-grammar_ins: false
-emoji: 'P'
-tags: '人工智能,涌现效应,LLM（大型语言模型）,LLM可解释性'
+
+
+tags:
+- 人工智能
+- 涌现效应
+- LLM（大型语言模型）
+- LLM可解释性
 
 ---
 
@@ -83,7 +85,8 @@ ___
 
 这个方法是不是很聪明？这个teacher-forcing “密集对齐”是几十年前RNN年代的人发明的，见wiki：
 
-The term "teacher forcing" was introduced in 1989 by Ronald J. Williams and David Zipser, who reported that the technique was already being "frequently used in dynamical supervised learning tasks" around that time.
+The term "teacher forcing" was introduced in 1989 by Ronald J. Williams and David Zipser
+- who reported that the technique was already being "frequently used in dynamical supervised learning tasks" around that time.
 
 从数学可以严格证明，这是无偏的loss（即，在此把所有子任务的loss直接加起来作为总loss，不需要任何额外的加权，恰好就可以让LM趋于数据的概率分布）。这也是为什么LM loss比BERT loss更scalable。
 
