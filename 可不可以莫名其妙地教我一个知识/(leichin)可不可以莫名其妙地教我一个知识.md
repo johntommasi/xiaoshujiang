@@ -1,0 +1,50 @@
+---
+title: '(leichin)可不可以莫名其妙地教我一个知识?'
+category: '/小书匠/收集/知乎问答/leichin/41471f3273dd1878888948e6f0fb57b5'
+slug: 'https://www.zhihu.com/question/2072260638768997299/answer/2078827872647759862'
+createDate: '2026-9-3 12:53:7'
+grammar_mathjax: false
+grammar_footnote: false
+grammar_ins: false
+emoji: 'l'
+tags: '教育,职场,高等教育,职场沟通,有人能科普吗'
+
+---
+
+
+[toc]
+
+
+# 问题
+
+提问者：**<a href="https://www.zhihu.com/people/he-yi-jie-you-83-38">何以解忧</a>**
+提问时间: 2026-8-16 9:57:17
+总回答数: 1703
+总访问量: 49754765
+
+可以是教育科研，也可以是职场，亦或者是其他
+
+# 回答
+
+回答者： **<a href="https://www.zhihu.com/people/leichin">leichin</a>**
+回答时间: 2026-9-3 12:53:7
+点赞总数: 6908
+评论总数: 194
+收藏总数: 697
+喜欢总数：107
+
+去到一个陌生的县城，
+
+找当地的一中/二中，
+
+如果在新区，就问当地一中二中在老城的原址。
+
+周围一定能找到开了多年的当地小吃店，
+
+地道且价钱公道。
+
+  
+
+原文地址：[(leichin)可不可以莫名其妙地教我一个知识?](https://www.zhihu.com/question/2072260638768997299/answer/2078827872647759862) 
+
+
